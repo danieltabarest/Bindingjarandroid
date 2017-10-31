@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\BindingJar\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.Core\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.Dash\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.Ext.Gvr\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.Ext.MediaSession\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.Ext.OkHttp\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.Hls\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.SmoothStreaming\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.UI\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Design\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.MediaRouter\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\BindingJar\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\ExoPlayer.Core\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\ExoPlayer.Dash\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\ExoPlayer\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\ExoPlayer.Ext.Gvr\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\ExoPlayer.Ext.MediaSession\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\ExoPlayer.Ext.OkHttp\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\ExoPlayer.Hls\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\ExoPlayer.SmoothStreaming\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\ExoPlayer.UI\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\BindingJar.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.Core.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.Dash.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.Ext.Gvr.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.Ext.MediaSession.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.Ext.OkHttp.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.Hls.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.SmoothStreaming.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\ExoPlayer.UI.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Design.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.MediaRouter.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\Documents\Visual Studio 2015\Projects\App9\App9\App9.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
